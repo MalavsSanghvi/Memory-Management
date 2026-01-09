@@ -1,8 +1,8 @@
 
 # Memory Management Simulator
 
-**Author:** Niviti Sharma  
-**Student ID:** 23117093  
+**Author:** Malav Sanghvi  
+**Student ID:** 23116056
 **Language:** C++17  
 
 ---
